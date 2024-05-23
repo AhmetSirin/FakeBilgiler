@@ -1,5 +1,5 @@
 Programımızın Çalışması için Kullandığınız ide nin terminaline 
-"pip install faker"   #Sadece yazı dahil edilecektir..
+"pip install faker"  
 Yazmanız gerekmektedir.
 
 ## iletişim 
